@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 ddddddddddddddddddddddddddddddddddddddddddd
+=======
+ssssssssssssssssssssssssssssssssssssssssssssssssss
+nicwwwwwwwwwwwwwwwwwwwwwwwwwwww
+eeeeeeeeeeeeeeeeee
+
+>>>>>>> dev
